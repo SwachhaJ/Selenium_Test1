@@ -1,0 +1,2 @@
+public class explicitwait {
+}
